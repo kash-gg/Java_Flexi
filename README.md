@@ -35,9 +35,9 @@ To run this project, you’ll need:
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the repository
-
+### 
 ```bash
+1️⃣ Clone the repository
 git clone https://github.com/kash-gg/Java_Flexi.git
 cd Java_Flexi
 2️⃣ Open the project
